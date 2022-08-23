@@ -52,29 +52,29 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="TXDrawing, Version=25.0.300.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXDrawing, Version=30.0.600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 25.0.NET for Windows Forms\Assembly\TXDrawing.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDrawing.dll</HintPath>
     </Reference>
-    <Reference Include="TXDrawing.Windows.Forms, Version=25.0.300.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXDrawing.Windows.Forms, Version=30.0.600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 25.0.NET for Windows Forms\Assembly\TXDrawing.Windows.Forms.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDrawing.Windows.Forms.dll</HintPath>
     </Reference>
-    <Reference Include="TXSpell, Version=7.0.600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXSpell, Version=9.0.800.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Spell 7.0 .NET for Windows Forms\Assembly\TXSpell.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Spell 9.0 .NET for Windows Forms\Assembly\TXSpell.dll</HintPath>
     </Reference>
-    <Reference Include="TXSpell.Windows.Forms, Version=7.0.600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXSpell.Windows.Forms, Version=9.0.800.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Spell 7.0 .NET for Windows Forms\Assembly\TXSpell.Windows.Forms.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Spell 9.0 .NET for Windows Forms\Assembly\TXSpell.Windows.Forms.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl, Version=25.0.1800.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl, Version=30.0.2300.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 25.0.NET for Windows Forms\Assembly\TXTextControl.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl.Windows.Forms, Version=25.0.1000.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl.Windows.Forms, Version=30.0.1500.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 25.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.dll</HintPath>
+      <HintPath>C:\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
